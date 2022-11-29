@@ -1,1 +1,28 @@
 2022-11-22 16:19:34,537 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-23 12:50:55,887 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-23 12:59:48,061 [Worker-55: Auto share git projects] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-23 13:06:39,926 [main] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-23 13:06:40,300 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-24 09:35:27,731 [main] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-24 09:35:28,116 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-25 09:47:08,206 [main] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-25 09:47:08,562 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-25 10:06:57,315 [main] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-25 10:06:57,603 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-25 16:13:27,789 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-25 16:13:30,551 [Worker-7: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-28 09:54:54,416 [main] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-28 09:54:54,772 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-28 11:36:11,654 [main] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
+2022-11-28 11:36:11,955 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-29 09:35:58,903 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-29 09:36:02,053 [Worker-5: Decoration Calculation] WARN  org.eclipse.jgit.util.FS_POSIX - Exception caught during execution of command '[bash, --login, -c, which git]' in '/Users/nanoblock', return code '127', error message 'bash: which: command not found
+'
